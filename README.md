@@ -3,7 +3,7 @@
 RESTful API 
 
 HTTP Verbs        |            /articles                         |                 articles/jack-bauer
-                  |                                              |
+------------------|----------------------------------------------|---------------------------------------      
 GET               |          Fetches all articles                |         Fetch the article on jacl-bauer
 ------------------|----------------------------------------------|-----------------------------------------
 POST              |         Create one new article               |                        -
